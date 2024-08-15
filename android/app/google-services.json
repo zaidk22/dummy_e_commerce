@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600384387892",
+    "project_id": "dummy-commerce",
+    "storage_bucket": "dummy-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600384387892:android:5a96be56d14cfd2bcc0361",
+        "android_client_info": {
+          "package_name": "com.example.dummy_e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD22hBMLB0O6-fOjOiXFdIKFzmCDOVE0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
